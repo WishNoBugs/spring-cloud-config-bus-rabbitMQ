@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-config-bus-rabbitMQ.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-config-bus-rabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider-1/spring-cloud-eureka-provider-1.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider-1/spring-cloud-eureka-provider-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider-2/spring-cloud-eureka-provider-2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider-2/spring-cloud-eureka-provider-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider-3/spring-cloud-eureka-provider-3.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider-3/spring-cloud-eureka-provider-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-service/spring-cloud-eureka-service.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-service/spring-cloud-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-consumer/spring-cloud-feign-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-consumer/spring-cloud-feign-consumer.iml" />
+    </modules>
+  </component>
+</project>
