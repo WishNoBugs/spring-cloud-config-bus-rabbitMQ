@@ -1,0 +1,3 @@
+主动触发Config Server bus/refresh接口
+post请求http://localhost:8888/bus/refresh，
+即可得到最新修改的配置
